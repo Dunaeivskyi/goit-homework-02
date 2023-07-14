@@ -11,8 +11,8 @@
   --color-grey: #2e2f42;
   --color-white: #ffffff;
   --color-dairy: #fcfcfc;
-  --primary-font: 'Roboto', sans-serif;
-  --logo-font: 'Raleway', sans-serif;
+  --primary-font: "Roboto", sans-serif;
+  --logo-font: "Raleway", sans-serif;
 }
 
 /* .social-links .link:hover,   HOVER-rule 
@@ -21,9 +21,9 @@
 /*color:var(--primary-text-color)*/
 /*color:var(--title-text-color)*/
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: var(--color-white);
+  background-color: #FFFFFF;
 }
 
 .list {
