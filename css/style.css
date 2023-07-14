@@ -18,12 +18,12 @@
 
 /*color:var(--primary-text-color)*/
 /*color:var(--title-text-color)*/
-.body {
+body {
   font-family: 'Roboto', sans-serif;
+  background-color: var(--color-white);
   color: var(--color-slate);
   list-style: none;
   text-decoration: none;
-  background-color: var(--color-white);
 }
 
 .list {
