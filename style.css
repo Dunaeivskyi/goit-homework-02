@@ -1,0 +1,323 @@
+/*  */
+
+:root {
+  --color-iris: #4d5ae5;
+  --color-ocean: #404bbf;
+  --color-navy-blue: #2e2f42;
+  --color-green: #31d0aa;
+  --color-slate: #434455;
+  --color-light-slate: #8e8f99;
+  --color-cornflower: #e7e9fc;
+  --color-cloud: #f4f4fd;
+  --color-navy-blue-modal: #2e2f42;
+  --color-grey: #2e2f42;
+  --color-white: #ffffff;
+  --color-dairy: #fcfcfc;
+}
+
+:root {
+}
+
+/* .social-links .link:hover,   HOVER-rule 
+.social-links .link:focus { */
+
+/*color:var(--primary-text-color)*/
+/*color:var(--title-text-color)*/
+body {
+  font-family: 'Roboto' sans-serif;
+  color: #2e2f42;
+  list-style: none;
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+address li {
+  list-style: none;
+  font-style: normal;
+}
+
+/* colors - index.html */
+/* #2E2F42 - NAVY BLUE - general color of the page */
+/* #434455 - SLATE */
+/* #FFFFFF - WHITE */
+/* #F4F4FD - CLOUD */
+
+/* colors - portfolio */
+/* #4D5AE5 - IRIS */
+/* #2E2F42 - NAVY BLUE */
+/* #434455 - SLATE */
+/* #F4F4FD - CLOUD */
+/* #FFFFFF - WHITE ACTIVE BUTTON */
+
+/* 
+
+  crt + slash
+
+  ctrl + D однотипні елементи
+
+  ctrl + shift + p  - wrap 
+
+  cssTRUCKTOR
+
+  все що в таких душка (це-) */
+
+/* Header - CSS */
+
+.header {
+}
+.header-navigation {
+}
+
+.header-logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+
+.header-logo-text {
+  color: var(--color-iris);
+}
+
+.header-menu-list {
+}
+
+.list {
+}
+
+.header-menu-item {
+}
+
+.header-menu-link {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-navy-blue);
+}
+
+.header-adress {
+}
+
+.header-adress-menu {
+}
+
+.header-adress-list {
+}
+
+.header-adress-link {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-slate);
+}
+
+/* SECTION-1-INDEX.HTML */
+
+.hero {
+  background-color: var(--color-navy-blue);
+}
+
+.hero-title {
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--color-white);
+}
+
+.hero-btn {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: var(--color-white);
+  background-color: var(--color-iris);
+}
+
+/* SECTION-2 */
+
+.sub-section {
+}
+
+.sub-title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-navy-blue);
+}
+.sub-menu-list {
+}
+.list {
+}
+.sub-menu-item {
+}
+.sub-menu-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-slate);
+}
+
+/* SECTION-3 */
+
+.feature-title {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--color-navy-blue);
+}
+
+.feature-img {
+  background-color: var(--color-cornflower);
+}
+
+/* SECTION-4 */
+
+.last-section {
+  background-color: var(--color-cloud);
+}
+.last-section-title {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--color-navy-blue);
+}
+
+.last-menu {
+}
+.list {
+}
+.last-menu-item {
+}
+.last-img {
+}
+
+.last-header {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--color-navy-blue);
+}
+
+.last-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--color-slate);
+}
+
+/* FOOTER */
+
+.footer-page {
+  background-color: var(--color-navy-blue);
+}
+
+.footer-logo-text {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: var(--color-cloud);
+}
+
+.footer-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-cloud);
+}
+
+/* PORTFOLIO-PAGE */
+
+.noname-section {
+}
+.noname-menu {
+}
+.list {
+}
+.noname-item {
+}
+.noname-btn {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: var(--color-iris);
+  background-color: var(--color-cornflower);
+}
+.sub-noname-menu {
+}
+.sub-noname-item {
+}
+.hero-img {
+}
+.noname-title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-navy-blue);
+}
+.noname-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-slate);
+}
+.sub-hero-item {
+}
+
+button:hover,
+button:focus {
+  color: var(--color-ocean);
+}
+
+a:hover,
+a:focus {
+  color: var(--color-ocean);
+}
