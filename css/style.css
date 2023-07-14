@@ -15,11 +15,6 @@
   --logo-font: "Raleway", sans-serif;
 }
 
-/* .social-links .link:hover,   HOVER-rule 
-.social-links .link:focus { */
-
-/*color:var(--primary-text-color)*/
-/*color:var(--title-text-color)*/
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -34,6 +29,11 @@ address li {
   list-style: none;
   font-style: normal;
 }
+/* .social-links .link:hover,   HOVER-rule 
+.social-links .link:focus { */
+
+/*color:var(--primary-text-color)*/
+/*color:var(--title-text-color)*/
 
 /* colors - index.html */
 /* #2E2F42 - NAVY BLUE - general color of the page */
