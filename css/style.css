@@ -24,8 +24,6 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: var(--color-white);
   color: #434455;
-  list-style: none;
-  text-decoration: none;
 }
 
 .list {
