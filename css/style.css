@@ -22,8 +22,8 @@
 /*color:var(--title-text-color)*/
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: var(--color-white);
   color: #434455;
+  background-color: var(--color-white);
 }
 
 .list {
