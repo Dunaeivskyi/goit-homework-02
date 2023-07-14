@@ -15,19 +15,17 @@
   --color-dairy: #fcfcfc;
 }
 
-:root {
-}
-
 /* .social-links .link:hover,   HOVER-rule 
 .social-links .link:focus { */
 
 /*color:var(--primary-text-color)*/
 /*color:var(--title-text-color)*/
 body {
-  font-family: 'Roboto' sans-serif;
-  color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
   list-style: none;
   text-decoration: none;
+  background-color: #ffffff;
 }
 
 .list {
