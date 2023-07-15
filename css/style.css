@@ -117,7 +117,7 @@ address {
   color: var(--color-slate);
 }
 
-/* INDEX-HTML-SECTION-1 */
+/* INDEX-HTML-SECTION - 1 */
 
 .hero {
   background-color: var(--color-grey);
@@ -133,6 +133,7 @@ address {
 }
 .hero-btn {
   color: #ffffff;
+  background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -148,4 +149,28 @@ address {
 
 .hero-btn:focus {
   background-color: #404bbf;
+}
+
+/* SECTION - 2 */
+
+.benefits {
+}
+.hidden-title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--color-navy-blue);
+}
+.benefits-menu {
+}
+.list {
+}
+.benefits-item {
+}
+.benefits-title {
+}
+.benefits-text {
 }
