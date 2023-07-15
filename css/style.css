@@ -292,3 +292,71 @@ address {
   letter-spacing: 0.02em;
   text-align: left;
 }
+
+/* PORTFOLIO */
+
+.content {
+}
+
+.hidden-title {
+}
+
+.content-menu {
+}
+
+.list {
+}
+
+.content-item {
+}
+
+.content-btn {
+  color: var(--color-iris);
+  background-color: #f4f4fd;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: center;
+  cursor: pointer;
+}
+
+.content-btn:hover,
+.content-btn:focus {
+  color: #ffffff;
+}
+
+.content-btn:hover,
+.content-btn:focus {
+  background-color: #404bbf;
+}
+
+.application-menu {
+}
+
+.application-item {
+}
+
+.application-title {
+  color: var(--color-grey);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.applacation-text {
+  color: var(--color-slate);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.hero-img {
+}
