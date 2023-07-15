@@ -168,8 +168,10 @@ address {
 
 .benefits-menu {
 }
+
 .list {
 }
+
 .benefits-item {
 }
 
@@ -191,4 +193,29 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
+}
+
+/* SECTION - 3 - */
+
+.desc-section {
+}
+
+.desc-title {
+  color: var(--color-navy-blue);
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.desc-menu {
+}
+
+.desc-item {
+}
+
+.desc-img {
 }
