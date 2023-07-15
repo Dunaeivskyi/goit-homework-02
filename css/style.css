@@ -205,7 +205,7 @@ address {
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
@@ -218,4 +218,50 @@ address {
 }
 
 .desc-img {
+}
+
+/* SECTION - 4 - */
+
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-title {
+  color: var(--color-navy-blue);
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.team-menu {
+}
+
+.team-list {
+}
+
+.team-img {
+}
+
+.team-sub-title {
+  color: var(--color-navy-blue);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.team-text {
+  color: var(--color-slate);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
