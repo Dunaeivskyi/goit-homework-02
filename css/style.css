@@ -172,7 +172,23 @@ address {
 }
 .benefits-item {
 }
+
 .benefits-title {
+  color: var(--color-navy-blue);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
 }
+
 .benefits-text {
+  color: var(--color-slate);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
 }
