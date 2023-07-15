@@ -19,12 +19,15 @@ body {
   background-color: var(--color-white);
 }
 
+address {
+}
+
 .link {
   text-decoration: none;
 }
 
 .list {
-  text-decoration: none;
+  list-style: none;
 }
 
 /* .social-links .link:hover,   HOVER-rule 
@@ -99,6 +102,16 @@ body {
   letter-spacing: 0.02em;
   text-align: left;
   color: var(--color-navy-blue);
+}
+
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: var(--color-ocean);
+}
+
+.header-adress-link:hover,
+.header-adress-link:focus {
+  color: var(--color-ocean);
 }
 
 /* ADRESS */
