@@ -19,9 +19,6 @@ body {
   background-color: var(--color-white);
 }
 
-address {
-}
-
 .link {
   text-decoration: none;
 }
@@ -29,25 +26,6 @@ address {
 .list {
   list-style: none;
 }
-
-/* .social-links .link:hover,   HOVER-rule 
-.social-links .link:focus { */
-
-/*color:var(--primary-text-color)*/
-/*color:var(--title-text-color)*/
-
-/* colors - index.html */
-/* #2E2F42 - NAVY BLUE - general color of the page */
-/* #434455 - SLATE */
-/* #FFFFFF - WHITE */
-/* #F4F4FD - CLOUD */
-
-/* colors - portfolio */
-/* #4D5AE5 - IRIS */
-/* #2E2F42 - NAVY BLUE */
-/* #434455 - SLATE */
-/* #F4F4FD - CLOUD */
-/* #FFFFFF - WHITE ACTIVE BUTTON */
 
 /* 
 
@@ -137,4 +115,37 @@ address {
   letter-spacing: 0.02em;
   text-align: left;
   color: var(--color-slate);
+}
+
+/* INDEX-HTML-SECTION-1 */
+
+.hero {
+  background-color: var(--color-grey);
+}
+.hero-title {
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--color-white);
+}
+.hero-btn {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: left;
+  cursor: pointer;
+}
+
+.hero-btn:hover {
+  background-color: #404bbf;
+}
+
+.hero-btn:focus {
+  background-color: #404bbf;
 }
